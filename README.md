@@ -32,4 +32,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 
-<img align="center" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNiNjcyamRpcHdodGRieGx1YjN6ZmJwZzJuaDduOG9ob3BoNTN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif" width="300"/>
+<table>
+  <tr>
+    <td><img  alt="My Stats" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedvedGubach&layout=compact&theme=radical"/></td>
+    <td><img  alt="GIF" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNiNjcyamRpcHdodGRieGx1YjN6ZmJwZzJuaDduOG9ob3BoNTN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif"/></td>
+  </tr>
+</table>
+
+
